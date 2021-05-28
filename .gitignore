@@ -1,0 +1,6 @@
+*.psprojs
+*.psproj
+**.TempPoint*
+Tests
+
+.idea
