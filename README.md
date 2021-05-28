@@ -1,1 +1,1 @@
-# ps-admin-api
+# WSO2-Publisher-v1
